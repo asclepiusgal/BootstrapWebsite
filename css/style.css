@@ -1,0 +1,92 @@
+@import url(http://weloveiconfonts.com/api/?family=entypo);
+
+[class*="entypo-"]:before {
+  font-family: 'entypo', sans-serif;
+}
+
+body {
+	font-family: 'PT Sans', sans-serif;
+}
+
+img, embed, object, video {
+	max-width: 100%;
+}
+
+.container {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.blocking {
+	width: 600px;
+	font-size: 18px;
+	line-height: 1.25em;
+	margin-left: 0px;
+	margin-right: auto;
+	display: block;
+	text-align: left;
+	padding-left: 0px;
+	margin-left: 70px;
+}
+
+.footer {
+	padding-top: 11px;
+	color: #c3bebe;
+	font-size: 10px;
+	border-top: thin solid #ece8e8;
+}
+
+.social ul, li {
+	display: inline;
+	list-style-type: none;
+	padding-top: 11px;
+	color: #c3bebe;
+	font-size: 20px;
+	padding-right: 15px;
+	min-width: 48px;
+	min-height: 48px;
+}
+
+.header {
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 10%;
+	max-width: 75%;
+	min-width: 75%;
+}
+
+.blogImage {
+	max-width: 30%;
+}
+
+.verticalLine {
+	border-left: thin solid #ece8e8;
+}
+
+a {
+	color: grey;
+}
+
+li {
+	list-style-type: none;
+}
+
+h1 {
+	font-size: 38px;
+}
+
+h2 {
+	font-size: 28px;
+	margin-top: 28px;
+}
+
+h3 {
+	font-size: 11px;
+	color: grey;
+	padding-bottom: 10px;
+}
+
+img {
+	right-margin: 0 auto;
+	margin-bottom: 15px;
+}
