@@ -1,4 +1,9 @@
-August 4, 2016  
+---
+date: "August 4, 2016"
+output: 
+  html_document:
+    keep_md: true
+---
 
 ## __Bootstrap Demo__
 
